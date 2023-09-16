@@ -1,0 +1,314 @@
+.foreword {
+    margin-bottom: 11.5122rem;
+}
+
+.foreword .wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    margin: 0 -1.7561rem;
+}
+
+.foreword .out-contentdiv {
+    width: 50%;
+    padding: 1.7561rem;
+}
+
+.foreword .content {
+    height: 100%;
+    background: #08C47E;
+    border-radius: 3.12195rem;
+    position: relative;
+    z-index: 2;
+}
+
+.foreword .content .inner {
+    padding: 8.78049rem 7.80488rem;
+}
+
+.foreword .content .inner .medium-text {
+    position: relative;
+    color: #fff;
+    margin-bottom: 1.56098rem;
+    font-family: "Nunito-semi", "sans-serif";
+}
+
+.foreword .content .inner .medium-text:before {
+    position: absolute;
+    left: -3.41463rem;
+    top: -2.92683rem;
+    background: url("img/pink-heart.png") no-repeat 100%;
+    display: inline-block;
+    width: 2.92683rem;
+    height: 2.92683rem;
+    content: " ";
+}
+
+.foreword .content .inner .title {
+    font-family: "Nunito-semi", "sans-serif";
+    color: #fff;
+}
+
+.foreword .content .thumb {
+    z-index: -1;
+    position: absolute;
+    right: 3.80488rem;
+    bottom: 2.63415rem;
+    width: 21.17073rem;
+    margin-bottom: 0;
+}
+
+.foreword .thumb {
+    width: 50%;
+    padding: 1.7561rem;
+}
+
+.foreword .thumb img {
+    width: 100%;
+}
+
+.foreword .has-overlay-2 {
+    border-radius: 32px;
+}
+
+.story {
+    margin-bottom: 12.68293rem;
+}
+
+.story .wrapper {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 8.39024rem 7.41463rem;
+    border-radius: 3.12195rem;
+    background: url("img/story-desk.png") no-repeat #2882E2 left 4.58537rem top 4.29268rem;
+}
+
+.story .thumb {
+    position: absolute;
+    left: 27.70732rem;
+    bottom: 4.29268rem;
+}
+
+.story .content-heading {
+    width: 40%;
+}
+
+.story .content-heading .big-title {
+    color: #fff;
+    margin-bottom: 4.4878rem;
+}
+
+.story .content-heading .btn {
+    color: #333333;
+}
+
+.story .desc {
+    width: 58%;
+}
+
+.story .desc p {
+    font-family: "Nunito", "sans-serif";
+    font-size: 1.95122rem;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+    color: #fff;
+}
+
+.top-icon-block .wrapper {
+    position: relative;
+    background: url("img/icon-block-desk.png") no-repeat #F7F5F3 left top 4.09756rem;
+}
+
+.award {
+    padding-top: 14.63415rem;
+    margin-bottom: 12.68293rem;
+    overflow: hidden;
+}
+
+.award .wrapper {
+    position: relative;
+    border-radius: 3.12195rem;
+    padding: 6.63415rem 10.92683rem 2.92683rem;
+    background: url("img/award-desk.png") no-repeat #07AB6E left 5.7561rem top 4.78049rem;
+}
+
+.award .mood-wrapper {
+    right: -9.7561rem;
+    top: -13.26829rem;
+}
+
+.award .head-title {
+    font-family: "Nunito-semi", "sans-serif";
+    font-size: 2.92683rem;
+    color: #fff;
+    margin-bottom: 4.87805rem;
+}
+
+.award .award-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.award .item {
+    width: 27%;
+    margin-bottom: 4.87805rem;
+    text-align: center;
+}
+
+.award .item .big-title {
+    font-family: "Nunito-semi", "sans-serif";
+    color: #fff;
+    margin-bottom: 1.17073rem;
+}
+
+.award .item p {
+    font-family: "Nunito-semi", "sans-serif";
+    font-size: 1.56098rem;
+    line-height: 1.5;
+    color: #EFEFEF;
+    width: 60%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .foreword {
+        margin-bottom: 9.36585rem;
+    }
+
+    .foreword .wrapper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .foreword .out-contentdiv {
+        width: 100%;
+    }
+
+    .foreword .content .inner {
+        padding: 3.90244rem 3.12195rem 11.12195rem;
+    }
+
+    .foreword .content .inner .medium-text {
+        font-size: 1.7561rem;
+    }
+
+    .foreword .content .inner .medium-text:before {
+        left: -3.12195rem;
+        top: -2.63415rem;
+        background-size: 70%;
+    }
+
+    .foreword .content .title {
+        font-size: 3.12195rem;
+    }
+
+    .foreword .content .thumb {
+        right: 1.95122rem;
+        bottom: 1.95122rem;
+        width: 11.70732rem;
+        margin-bottom: 0;
+    }
+
+    .foreword .thumb {
+        width: 100%;
+    }
+
+    .foreword .thumb:last-child {
+        padding-bottom: 0;
+    }
+
+    .story {
+        margin-bottom: 9.36585rem;
+    }
+
+    .story .wrapper {
+        position: relative;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding: 7.31707rem 3.12195rem 19.70732rem;
+        background: url("img/story-mobile.png") no-repeat #2882E2 left 2.04878rem top 2.2439rem;
+    }
+
+    .story .thumb {
+        top: unset;
+        left: unset;
+        bottom: 2.92683rem;
+        right: 3.12195rem;
+        width: 9.7561rem;
+    }
+
+    .story .content-heading {
+        width: 100%;
+    }
+
+    .story .content-heading .big-title {
+        font-size: 3.12195rem;
+    }
+
+    .story .content-heading .btn {
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 11.70732rem;
+    }
+
+    .story .desc {
+        width: 100%;
+    }
+
+    .top-icon-block .wrapper {
+        background: url("img/icon-block-mobile.png") no-repeat #F7F5F3 left top 3.90244rem;
+    }
+
+    .award {
+        padding-top: 9.7561rem;
+        margin-bottom: 9.36585rem;
+    }
+
+    .award .wrapper {
+        padding: 5.46341rem 0 2.43902rem;
+        background: url("img/award-mobile.png") no-repeat #07AB6E left 1.46341rem top 1.85366rem;
+    }
+
+    .award .mood-wrapper {
+        width: 16.58537rem;
+        top: -6.82927rem;
+        right: -6.53659rem;
+    }
+
+    .award .head-title {
+        padding-left: 3.12195rem;
+    }
+
+    .award .item {
+        width: 48%;
+    }
+
+    .award .item .big-title {
+        font-size: 2.34146rem;
+    }
+
+    .award .item p {
+        font-size: 1.36585rem;
+        width: 80%;
+    }
+}

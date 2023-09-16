@@ -1,0 +1,263 @@
+[
+    {
+      "STT": "1",
+      "tentram": "Cảng Thị Nại",
+      "lng": ""
+    },
+    {
+      "STT": "2",
+      "tentram": "Hải quan Bình Định"
+    },
+    {
+      "STT": "3",
+      "tentram": "Bệnh viện Mắt Bình Định"
+    },
+    {
+      "STT": "4",
+      "tentram": "Bệnh viện TP Quy Nhơn"
+    },
+    {
+      "STT": "5",
+      "tentram": "CĐ Y tế Bình Định"
+    },
+    {
+      "STT": "6",
+      "tentram": "171A Trần Cao Vân"
+    },
+    {
+      "STT": "7",
+      "tentram": "Chùa Long Khánh"
+    },
+    {
+      "STT": "8",
+      "tentram": "27 Trần Cao Vân"
+    },
+    {
+      "STT": "9",
+      "tentram": "72A Nguyễn Huệ"
+    },
+    {
+      "STT": "10",
+      "tentram": "295A Nguyễn Huệ"
+    },
+    {
+      "STT": "11",
+      "tentram": "144 Nguyễn Huệ"
+    },
+    {
+      "STT": "12",
+      "tentram": "Trung tâm thương mại Quy Nhơn"
+    },
+    {
+      "STT": "13",
+      "tentram": "Hội chợ triển lãm Bình Định"
+    },
+    {
+      "STT": "14",
+      "tentram": "06 Nguyễn Thái Học"
+    },
+    {
+      "STT": "15",
+      "tentram": "Hội trường Quang Trung"
+    },
+    {
+      "STT": "16",
+      "tentram": "18 Ỷ Lan"
+    },
+    {
+      "STT": "17",
+      "tentram": "Ngã tư Ỷ Lan - Nguyễn Hữu Thọ"
+    },
+    {
+      "STT": "18",
+      "tentram": "Ngã ba Phạm Hồng Thái - Đống Đa"
+    },
+    {
+      "STT": "19",
+      "tentram": "14 Đống Đa"
+    },
+    {
+      "STT": "20",
+      "tentram": "Liên đoàn lao động tỉnh"
+    },
+    {
+      "STT": "21",
+      "tentram": "792 Trần Hưng Đạo"
+    },
+    {
+      "STT": "22",
+      "tentram": "Ngã 3 Tháp Đôi"
+    },
+    {
+      "STT": "23",
+      "tentram": "Cầu Đôi"
+    },
+    {
+      "STT": "24",
+      "tentram": "Ngã 3 Võ Thị Sáu - Trần Hưng Đạo"
+    },
+    {
+      "STT": "25",
+      "tentram": "Ngã 3 Ông Thọ"
+    },
+    {
+      "STT": "26",
+      "tentram": "Trạm xe khách Nhơn Phú"
+    },
+    {
+      "STT": "27",
+      "tentram": "Trường Cao đẳng Bình Định"
+    },
+    {
+      "STT": "28",
+      "tentram": "Tịnh xá Quan Âm"
+    },
+    {
+      "STT": "29",
+      "tentram": "Bệnh viện tâm thần"
+    },
+    {
+      "STT": "30",
+      "tentram": "Ngã 3 Long Vân"
+    },
+    {
+      "STT": "31",
+      "tentram": "Trường THPT Hùng Vương"
+    },
+    {
+      "STT": "32",
+      "tentram": "Ngã 3 Phú Tài nam"
+    },
+    {
+      "STT": "33",
+      "tentram": "Ngã ba Phú Tài bắc"
+    },
+    {
+      "STT": "34",
+      "tentram": "Ngã ba Diêu Trì"
+    },
+    {
+      "STT": "35",
+      "tentram": "UBND tt.Diêu Trì"
+    },
+    {
+      "STT": "36",
+      "tentram": "Nhà máy xi măng"
+    },
+    {
+      "STT": "37",
+      "tentram": "Ngã ba Ông Đô"
+    },
+    {
+      "STT": "38",
+      "tentram": "Cà phê Sương Chiều"
+    },
+    {
+      "STT": "39",
+      "tentram": "Chùa Phước Điền"
+    },
+    {
+      "STT": "40",
+      "tentram": "Chợ Phước Lộc"
+    },
+    {
+      "STT": "41",
+      "tentram": "Nhà máy gạch Tuynel"
+    },
+    {
+      "STT": "42",
+      "tentram": "Khách sạn Mỹ Dung"
+    },
+    {
+      "STT": "43",
+      "tentram": "Ngã tư Bà Di"
+    },
+    {
+      "STT": "44",
+      "tentram": "Tháp Bánh Ít"
+    },
+    {
+      "STT": "45",
+      "tentram": "Cầu Huỳnh Kim bắc"
+    },
+    {
+      "STT": "46",
+      "tentram": "Cầu Tân An"
+    },
+    {
+      "STT": "47",
+      "tentram": "Cầu Liêm Trực"
+    },
+    {
+      "STT": "48",
+      "tentram": "Bến xe An Nhơn cũ"
+    },
+    {
+      "STT": "49",
+      "tentram": "Nhà văn hóa An Nhơn"
+    },
+    {
+      "STT": "50",
+      "tentram": "Ngã tư Trần Phú - Ngô Gia Tự"
+    },
+    {
+      "STT": "51",
+      "tentram": "Đài phát tuyến"
+    },
+    {
+      "STT": "52",
+      "tentram": "Cầu An Ngãi"
+    },
+    {
+      "STT": "53",
+      "tentram": "Ngã ba BV An Nhơn"
+    },
+    {
+      "STT": "54",
+      "tentram": "UBND p.Nhơn Hưng"
+    },
+    {
+      "STT": "55",
+      "tentram": "Cẩm Văn - Nhơn Hưng"
+    },
+    {
+      "STT": "56",
+      "tentram": "Cầu Đập Đá nam"
+    },
+    {
+      "STT": "57",
+      "tentram": "Bến xe Đập Đá"
+    },
+    {
+      "STT": "58",
+      "tentram": "Trường THPT Nguyễn Trường Tộ"
+    },
+    {
+      "STT": "59",
+      "tentram": "Ngã ba Gò Đá Trắng"
+    },
+    {
+      "STT": "60",
+      "tentram": "Ngã ba Tháp Cánh Tiên"
+    },
+    {
+      "STT": "61",
+      "tentram": "Chùa Thập Tháp"
+    },
+    {
+      "STT": "62",
+      "tentram": "Cầu Ba Trung"
+    },
+    {
+      "STT": "63",
+      "tentram": "Chùa Phước Hội"
+    },
+    {
+      "STT": "64",
+      "tentram": "Ngã tư sân bay Phù Cát"
+    },
+    {
+      "STT": "65",
+      "tentram": "Gò Găng"
+    }
+  ]
